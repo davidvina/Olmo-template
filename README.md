@@ -1,5 +1,5 @@
-# Basis Theme
-Default theme in Backdrop.
+# Olmo theme
+Special theme for Backdrop CMS.
 
 ## Responsive Strategy
 Media queries and other responsive code should be mobile first. This means all
