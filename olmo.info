@@ -1,0 +1,19 @@
+type = theme
+name = olmo
+description = A great base theme.
+backdrop = 1.x
+version = BACKDROP_VERSION
+
+; Add theme CSS files
+stylesheets[all][] = css/style.css
+
+
+scripts[] = js/script.js
+
+; We need at least one setting for the theme settings page to appear in the menu.
+settings[] = true
+
+; Added by Backdrop CMS packaging script on 2016-11-16
+project = backdrop
+version = 1.5.2
+timestamp = 1479323823
